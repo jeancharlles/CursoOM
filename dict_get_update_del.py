@@ -16,4 +16,5 @@ d1.update({'nova_chave': 'novo_valor'})
 print(d1)
 
 del d1['existe']
+
 print(d1)
